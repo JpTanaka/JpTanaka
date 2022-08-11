@@ -1,5 +1,10 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I+am+Tanaka.; Olá,+eu+sou+o+Tanaka.;+Salut,+je+m'appelle+Tanaka.)](https://git.io/typing-svg)
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I+am+Tanaka.; Olá,+eu+sou+o+Tanaka.;+Salut,+je+m'appelle+Tanaka.)](https://git.io/typing-svg)-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I+am+Tanaka.; Olá,+eu+sou+o+Tanaka.;+Salut,+je+m'appelle+Tanaka.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 <!--
 **JpTanaka/JpTanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
